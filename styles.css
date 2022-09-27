@@ -2,12 +2,8 @@
   max-width: 960px;
 }
 
-/*
- * Custom translucent site header
- */
-
 .site-header {
-  background-color: rgba(0, 0, 0, .85);
+  background-color: rgba(41, 33, 33, 0.85);
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   backdrop-filter: saturate(180%) blur(20px);
 }
@@ -19,10 +15,6 @@
   color: #fff;
   text-decoration: none;
 }
-
-/*
- * Dummy devices (replace them with your own or something else entirely!)
- */
 
 .product-device {
   position: absolute;
